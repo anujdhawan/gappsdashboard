@@ -1,0 +1,14 @@
+#Provides an overview of the application home page.
+
+# Introduction #
+This is working specfication and request for features in the reseller application.
+
+|**Customers (total # of accounts)**|**Renewal Status**|
+|:----------------------------------|:-----------------|
+|(Search Box - AJAX lookup by name) |Customer XYZ (123 users)-Due Jan 15, 2009|
+|-                                  |-                 |
+|**Provision Status/History**       |**Help Tickets**  |
+|Requested Accounts - 1             |New - 5           |
+|Activated in last 7 days - 3       |Open - 23         |
+|Activation Failed - 2              |Escalated to Google - 7|
+|Activated in last 30 days - 20     |Overdue - 1       |
